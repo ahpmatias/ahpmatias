@@ -5,5 +5,6 @@
 - [100 Days of Code: Python Bootcamp (Work in Progress)](https://github.com/ahpmatias/Python-100daysofcode-bootcamp)
 - [Space Race: An Exploratory Data Analysis (Work in Progress)](https://github.com/ahpmatias/space-race-analysis)
 - [Web Development Training (Work in Progress)](https://github.com/ahpmatias/Web-Development-Training)
+- [Capstone Project: CV](https://ahpmatias.github.io/capstone-cv/)
 - [Capstone Project: Predicting Boston House Prices](https://github.com/ahpmatias/capstone-boston-house-prices)
 - [Capstone Project: IBM Data Science Certification Final Assignment](https://github.com/ahpmatias/IBM_Data_Science_Certificate_Capstone) 
