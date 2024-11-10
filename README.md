@@ -1,5 +1,5 @@
 ## About me
-#### Hey there, Anderson here! I'm on a quest to get very proficient in all things data and software development, so here you can find anything from small projects to capstones, to learning repositories on several different topics.
+#### Hey there, Anderson here! I'm on a quest to get extremely proficient in all things data and software development, so here you can find anything from small projects to capstones, to learning repositories on several different topics.
 
 #### What I've been up to:
 - [100 Days of Code: Python Bootcamp](https://github.com/ahpmatias/Python-100daysofcode-bootcamp)
