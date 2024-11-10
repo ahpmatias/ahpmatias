@@ -6,5 +6,5 @@
 - [Space Race: An Exploratory Data Analysis (Work in Progress)](https://github.com/ahpmatias/space-race-analysis/blob/main/Space%20Race%20Data%20Analysis.ipynb)
 - [Web Development Training (Work in Progress)](https://github.com/ahpmatias/Web-Development-Training)
 - [Capstone Project: CV](https://ahpmatias.github.io/capstone-cv/)
-- [Capstone Project: Predicting Boston House Prices](https://github.com/ahpmatias/capstone-boston-house-prices)
-- [Capstone Project: IBM Data Science Certification Final Assignment](https://github.com/ahpmatias/IBM_Data_Science_Certificate_Capstone) 
+- [Capstone Project: Predicting Boston House Prices](https://github.com/ahpmatias/capstone-boston-house-prices/blob/main/Multivariable_Regression_and_Valuation_Model_(start).ipynb)
+- [Capstone Project: IBM Data Science Certification Final Assignment](https://github.com/ahpmatias/IBM_Data_Science_Certificate_Capstone/blob/master/Applied%20Data%20Science%20Capstone%20-%20Final.ipynb)
