@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=790b761131kxxx9dihvtuohuh0ow2fr71oriysyfjzecjk49&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500"/>
+</div>
+
 ## About me
 #### Hey there, Anderson here! I'm on a quest to get extremely proficient in all things data and software development, so here you can find anything from small projects to capstones, to learning repositories on several different topics.
 
