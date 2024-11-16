@@ -7,6 +7,7 @@
 
 #### Some of the stuff I've been doing:
 - [Space Race: An Exploratory Data Analysis (Work in Progress)](https://github.com/ahpmatias/space-race-analysis/blob/main/Space%20Race%20Data%20Analysis.ipynb)
+- [Images Classification using CNN (Work in Progress)](https://github.com/ahpmatias/cnn-images-classification/blob/main/CiFAR-10%20Images%20Classification%20Using%20CNNs.ipynb)
 - [Web Development Training (Ongoing)](https://github.com/ahpmatias/Web-Development-Training)
 - [100 Days of Code: Python Bootcamp (Ongoing)](https://github.com/ahpmatias/Python-100daysofcode-bootcamp)
 - [C++ Learning (Ongoing)](https://github.com/ahpmatias/cpp-learning)
