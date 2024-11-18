@@ -7,10 +7,10 @@
 
 #### Some of the stuff I've been doing:
 - [Space Race: An Exploratory Data Analysis (Work in Progress)](https://github.com/ahpmatias/space-race-analysis/blob/main/Space%20Race%20Data%20Analysis.ipynb)
-- [Images Classification using CNN (Work in Progress)](https://github.com/ahpmatias/cnn-images-classification/blob/main/CiFAR-10%20Images%20Classification%20Using%20CNNs.ipynb)
 - [Complete Python Bootcamp (Ongoing)](https://github.com/ahpmatias/Python-100daysofcode-bootcamp)
 - [C++ Learning (Ongoing)](https://github.com/ahpmatias/cpp-learning)
 - [Web Development Training (Ongoing)](https://github.com/ahpmatias/Web-Development-Training)
+- [Images Classification using CNN (CIFAR10 dataset)](https://github.com/ahpmatias/cnn-images-classification/blob/main/CiFAR-10%20Images%20Classification%20Using%20CNNs.ipynb)
 - [Using ANN to predict car prices](https://github.com/ahpmatias/ANN-car-prices/blob/main/Car%20Purchase%20Amount%20Predictions%20Using%20ANNs.ipynb)
 - [Capstone Project: CV](https://ahpmatias.github.io/capstone-cv/)
 - [Capstone Project: Predicting Boston House Prices](https://github.com/ahpmatias/capstone-boston-house-prices/blob/main/Multivariable_Regression_and_Valuation_Model_(start).ipynb)
