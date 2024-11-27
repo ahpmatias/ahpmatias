@@ -8,6 +8,7 @@
 #### Some of the stuff I've been doing:
 - [C++ Learning (Ongoing)](https://github.com/ahpmatias/cpp-learning)
 - [Web Development Training (Ongoing)](https://github.com/ahpmatias/Web-Development-Training)
+- [NLP: e-mail spam filter (Work in Progress)](https://github.com/ahpmatias/NLP-spam-filter)
 - [Django: Food Menu App Project (Work in Progress)](https://github.com/ahpmatias/django-food-menu-app)
 - [Space Race: An Exploratory Data Analysis](https://github.com/ahpmatias/space-race-analysis/blob/main/Space%20Race%20Data%20Analysis.ipynb)
 - [Images Classification using CNN (CIFAR10 dataset)](https://github.com/ahpmatias/cnn-images-classification/blob/main/CiFAR-10%20Images%20Classification%20Using%20CNNs.ipynb)
