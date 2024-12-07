@@ -8,6 +8,7 @@
 #### Some of the stuff I've been doing:
 
 ##### Ongoing:
+- [EQ VST Plugin Development](https://github.com/ahpmatias/VST-plugin-dev) 
 - [C++ Learning](https://github.com/ahpmatias/cpp-learning)
 - [Web Development Training](https://github.com/ahpmatias/Web-Development-Training)
 - [Django: Food Menu App Project](https://github.com/ahpmatias/django-food-menu-app)
