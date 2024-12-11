@@ -3,7 +3,7 @@
 </div>
 
 # About me
-#### Hey there, Anderson here! I'm on a quest to get extremely proficient in all things data science, AI and software development, so here you can find anything from small projects to capstones, to learning repositories on several different topics.
+#### Hey there, Anderson here! I'm on a quest to get extremely proficient in all things data science, AI and software development, so here you can find anything from small projects to capstones, to repositories on several different topics.
 
 #### Some of the stuff I've been doing:
 
